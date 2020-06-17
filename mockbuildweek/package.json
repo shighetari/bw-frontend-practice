@@ -9,16 +9,12 @@
     "axios": "^0.19.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-<<<<<<< HEAD
     "react-hook-form": "^5.7.2",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.1"
-=======
-    "react-redux": "^7.2.0",
     "react-scripts": "3.4.1",
+    "react-redux": "^7.2.0",
     "redux": "^4.0.5",
     "thunk": "0.0.1"
->>>>>>> b408345109d28ee957b821f795e572f0a695e84b
   },
   "scripts": {
     "start": "react-scripts start",
